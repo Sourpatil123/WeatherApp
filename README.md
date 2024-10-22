@@ -53,6 +53,7 @@ Push Notifications: Add push notifications via web or mobile for weather alerts.
 User Subscription System: Allow users to subscribe to weather alerts for multiple locations.
 Hourly Forecast: Expand the system to include an hourly or multi-day forecast for more comprehensive alerts.
 
+Link to Open - https://github.com/Sourpatil123/WeatherAppEmail
 
 Screenshots
 ![Screenshot 2024-10-22 234632](https://github.com/user-attachments/assets/e1ca4078-3f57-4f95-91f5-c241b72f4ae4)
